@@ -1,0 +1,37 @@
+{
+  "887f1d43-2677-4748-9364-66e035e7da0e": {
+    "name": "1. Jam Session",
+    "capacities": {
+      "Chet Baker": {
+        "participation": 1.0,
+        "sprintDays": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      "Dave Brubeck": {
+        "participation": 1.0,
+        "sprintDays": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      }
+    }
+  }
+}
